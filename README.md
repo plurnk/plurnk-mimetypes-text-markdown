@@ -1,3 +1,5 @@
+> **ABSORBED into the plurnk platform monorepo** — code, history, and issues now live in [`plurnk/plurnk-service`](https://github.com/plurnk/plurnk-service) under `plurnk-mimetypes-text-markdown/`. This repo is an archived snapshot.
+
 # @plurnk/plurnk-mimetypes-text-markdown
 
 `text/markdown` mimetype handler for the [plurnk](https://github.com/plurnk) ecosystem.
